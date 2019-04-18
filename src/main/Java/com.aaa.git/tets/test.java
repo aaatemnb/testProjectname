@@ -8,7 +8,7 @@ package com.aaa.git.tets;
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("wozini");
+        System.out.println("wo");
     }
 
 }
